@@ -18,7 +18,10 @@ Later on transformations are carried out that ensure that the data is fit for ou
 
 The final tableau dashboard:
 
-https://github.com/echokhan/Greggs-Nutritonal-View/assets/33589432/566893c1-a615-461c-b10c-d66fe3d0d4cd
+https://github.com/echokhan/Greggs-Nutritonal-View/assets/33589432/a5abaf8a-20a3-43ad-a94b-1a510a380867
+
+
+
 
 
 
