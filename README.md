@@ -20,6 +20,9 @@ The final tableau dashboard:
 
 https://github.com/echokhan/Greggs-Nutritonal-View/assets/33589432/a5abaf8a-20a3-43ad-a94b-1a510a380867
 
+A piece on medium explaining choices made when creating the dashboard:
+https://medium.com/@hamzaehsankhan/greggs-whats-in-your-food-1469b82429bc
+
 
 
 
